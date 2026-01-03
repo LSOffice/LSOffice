@@ -8,13 +8,13 @@
 ```rust
 From: 18 November 2025 - To: 02 January 2026
 
-Total Time: 92 hrs 9 mins
+Total Time: 92 hrs 12 mins
 
-Haskell            48 hrs 40 mins  >>>>>>>>>>>>>------------   52.00 %
-TypeScript         22 hrs 58 mins  >>>>>>-------------------   24.55 %
-Kotlin             11 hrs 13 mins  >>>----------------------   11.99 %
+Haskell            48 hrs 40 mins  >>>>>>>>>>>>>------------   51.98 %
+TypeScript         23 hrs 1 min    >>>>>>-------------------   24.58 %
+Kotlin             11 hrs 13 mins  >>>----------------------   11.98 %
 Python             4 hrs 20 mins   >------------------------   04.63 %
-JavaScript         1 hr 51 mins    -------------------------   01.99 %
+JavaScript         1 hr 51 mins    -------------------------   01.98 %
 Other              1 hr 25 mins    -------------------------   01.52 %
 ```
 

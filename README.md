@@ -5,16 +5,16 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 18 November 2025 - To: 17 February 2026
+From: 18 November 2025 - To: 18 February 2026
 
-Total Time: 209 hrs 42 mins
+Total Time: 214 hrs 33 mins
 
-Haskell            69 hrs 41 mins        >>>>>>>>-----------------   32.12 %
-TypeScript         56 hrs 6 mins         >>>>>>-------------------   25.86 %
-Kotlin             44 hrs 48 mins        >>>>>--------------------   20.65 %
-Vue.js             13 hrs 10 mins        >>-----------------------   06.07 %
-Python             7 hrs 53 mins         >------------------------   03.64 %
-Other              7 hrs 15 mins         >------------------------   03.35 %
+Haskell            69 hrs 41 mins        >>>>>>>>-----------------   31.42 %
+TypeScript         56 hrs 52 mins        >>>>>>-------------------   25.64 %
+Kotlin             47 hrs 17 mins        >>>>>--------------------   21.32 %
+Vue.js             13 hrs 10 mins        >------------------------   05.94 %
+Python             7 hrs 54 mins         >------------------------   03.56 %
+Other              7 hrs 16 mins         >------------------------   03.28 %
 ```
 
 <!--END_SECTION:waka-->

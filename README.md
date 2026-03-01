@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @LSOffice
-- 👀 I’m interested in Web Development, Cybersecurity and Software Engineering
-- 🌱 I’m currently learning C++
+
 
 <!--START_SECTION:waka-->
 

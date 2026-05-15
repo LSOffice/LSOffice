@@ -3,19 +3,19 @@ i like building things. see them below! (haskell, kotlin, java, python, type/jav
 <!--START_SECTION:waka-->
 
 ```rust
-From: 18 November 2025 - To: 13 May 2026
+From: 18 November 2025 - To: 14 May 2026
 
-Total Time: 271 hrs 9 mins
+Total Time: 274 hrs 50 mins
 
-TypeScript         70 hrs 7 mins         >>>>>>-------------------   24.72 %
-Haskell            69 hrs 44 mins        >>>>>>-------------------   24.59 %
-Kotlin             69 hrs 14 mins        >>>>>>-------------------   24.41 %
-Vue.js             13 hrs 10 mins        >------------------------   04.65 %
-Other              12 hrs 29 mins        >------------------------   04.40 %
-Python             12 hrs 8 mins         >------------------------   04.28 %
-Java               8 hrs 50 mins         >------------------------   03.12 %
-Markdown           7 hrs 37 mins         >------------------------   02.69 %
-Bash               2 hrs 53 mins         -------------------------   01.02 %
+TypeScript         72 hrs 21 mins        >>>>>>-------------------   25.17 %
+Haskell            69 hrs 44 mins        >>>>>>-------------------   24.26 %
+Kotlin             69 hrs 14 mins        >>>>>>-------------------   24.09 %
+Vue.js             13 hrs 10 mins        >------------------------   04.58 %
+Other              12 hrs 39 mins        >------------------------   04.40 %
+Python             12 hrs 8 mins         >------------------------   04.22 %
+Java               8 hrs 50 mins         >------------------------   03.08 %
+Markdown           7 hrs 57 mins         >------------------------   02.77 %
+Bash               3 hrs 2 mins          -------------------------   01.06 %
 ```
 
 <!--END_SECTION:waka-->

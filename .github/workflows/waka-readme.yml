@@ -30,11 +30,11 @@ jobs:
           SHOW_TOTAL: true
           SHOW_MASKED_TIME: false
           STOP_AT_OTHER: false
-          IGNORED_LANGUAGES: "YAML JSON TOML"
+          IGNORED_LANGUAGES: "YAML JSON TOML Markdown"
 
           # commit
           COMMIT_MESSAGE: Updated waka-readme graph with new metrics
-          TARGET_BRANCH: master   # change to "main" if your repo uses main!
+          TARGET_BRANCH: master # change to "main" if your repo uses main!
           TARGET_PATH: README.md
           COMMITTER_NAME: GitHubActionBot
           COMMITTER_EMAIL: action-bot@github.com

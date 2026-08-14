@@ -3,7 +3,7 @@ i like building things. see them below! (haskell, kotlin, java, python, type/jav
 <!--START_SECTION:waka-->
 
 ```rust
-From: 18 November 2025 - To: 13 August 2026
+From: 18 November 2025 - To: 14 August 2026
 
 Total Time: 425 hrs 37 mins
 
